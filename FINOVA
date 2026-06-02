@@ -1,0 +1,7 @@
+finova/
+  index.html       ← o FINOVA_final.html renomeado
+  manifest.json    ← o ficheiro que descarregaste
+  sw.js            ← o ficheiro que descarregaste
+  icons/
+    icon-192.png   ← cria em favicon.io
+    icon-512.png   ← cria em favicon.io
